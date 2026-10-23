@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title> My Cloud Lab </title>
 </head>
 <body>
     <h1>My First Cloud Website</h1>
